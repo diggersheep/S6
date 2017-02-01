@@ -12,7 +12,7 @@ Le tout est compilé avec `pandoc` en `PDF` (par l'intermédiaire de `Latex`).
 
 #### Debian / Ubuntu
 
-> sudo apt-get install pandoc textlive
+	sudo apt-get install pandoc textlive
 
 
 
