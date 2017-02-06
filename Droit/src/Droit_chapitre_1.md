@@ -74,4 +74,23 @@ Le créancier demande à faire procéder à la vente aux enchères de certains b
 C'est une procédure qui permet au créancier, lorsque cela le permet, compte bancaire possédant moins que le montant du RSA, de prélevé une somme d'argent sur le compte du débiteur et de bloquer ses comptes pour la durée d'un mois. 
 
 3. __Saisir rémunération__ :
-Il s'agit de saisir l'argent sur la paie du débiteur en informant sont patron. Ce dernier, s'il refuse, doit payer la totalité des frais du débiteur.
+Il s'agit de saisir l'argent sur la paie du débiteur en informant sont patron. Ce dernier, s'il refuse, doit payer la totalité des frais du débiteur.  
+
+> * __réparation :__
+Rétablir la personne dans l'était où elle était avant d'avoir subit un dommage.
+
+> * __punition :__
+réservé aux violations des règles les plus graves, constivutives d'informations pénales
+
+*Informations*:  
+$\rightarrow$ crimes : cours d'assises  
+$\rightarrow$ délits : tribunal correctionnel  
+$\rightarrow$ contraventions : tribonal de police  
+
+La violation d'une même règle de droit peut conduire à plusieurs modalités de sanction.
+
+
+
+
+
+
