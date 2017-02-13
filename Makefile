@@ -4,6 +4,7 @@ build:
 	make -C Droit
 	make -C IA
 
+
 #RULES
 G3D:
 	make -C Géo_3D
@@ -13,6 +14,7 @@ Droit:
 
 IA:
 	make -C IA
+
 
 #CLEAN
 clean:
