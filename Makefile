@@ -14,7 +14,6 @@ Droit:
 IA:
 	make -C IA
 
-
 #CLEAN
 clean:
 	make --no-print-directory -C Géo_3D clean
