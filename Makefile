@@ -7,8 +7,10 @@ build:
 #RULES
 G3D:
 	make -C Géo_3D
+
 Droit:
 	make -C Droit
+
 IA:
 	make -C IA
 
