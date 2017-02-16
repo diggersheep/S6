@@ -1,4 +1,4 @@
-# Cours de Droit
+\newpage
 
 # I - la Règle de Droit
 
@@ -82,15 +82,95 @@ Rétablir la personne dans l'était où elle était avant d'avoir subit un domma
 > * __punition :__
 réservé aux violations des règles les plus graves, constivutives d'informations pénales
 
-*Informations*:  
-$\rightarrow$ crimes : cours d'assises  
+*Infractions*:  
+$\rightarrow$ crimes : cour d'assises  
 $\rightarrow$ délits : tribunal correctionnel  
 $\rightarrow$ contraventions : tribonal de police  
 
 La violation d'une même règle de droit peut conduire à plusieurs modalités de sanction.
 
 
+\newpage
+# II - La Variété de la Règle de Droit
 
+On distingue le *droit privé* et le *droit publique*.
+
+- __Le droit privé__
+
+> Il régit les rapports entre les personnes privées (particuliers, individus) qu'elles soinet *physiques* (indvidu) ou *morale* (société, association)
+
+- __Le droit publique__
+
+> Il s'applique à *l'état* et aux *collectivités publiques* (communes, conseil régional)
+
+
+\newpage
+# III - Les Sources du Droit
+
+## A - Les sources internes
+
+> Celles qui s'appliquent en __France__
+
+- La constitution de la V$^{ème}$ République par e conseil constituationel *(1958)*
+- La loi : Assemblée Nationnale + Sénat
+	- Dissuasion : Navette parlementaire
+	- Adoption : Promulgation $\rightarrow$ Publication *(JORF)* (Papier, Electronique via Légifrance)
+- Réglements : pouvoir réglementaire
+	- Décrets
+	- Circulaires
+
+## B - Les sources internationales
+
+Les sources du droit international résulent des traités et accords internationaux.  
+Les traités recouvrent tout accord conclue entre deux ou plusieurs sujets du droit internationnal
+
+>	- Etats
+>	- Organisations internationnal
+
+__Le droit européen :__ issue des communautés européennes *(traité de Rome - __1957__)* *(traité de Maastricht - __1992__)*
+
+__Normesde l'UE :__
+
+- Les traités
+- Directives : contraint les états membres quant aux résultats en leurs laissant la liberté de déterminer les moyens pour y arriver
+- Réglement : Lie l'état quant aux résultats et contraint les moyens utilisés
+
+
+
+L'essentiel des directives et des réglements sont rélisés au parlement européen *(Bruxelles - Strasbourg)*
+
+- Conseil de l'UE - organe politique
+- Conseil des Ministres
+- Commission européenne - *"Gourvernement"* - *Bruxelles*
+- Cour de justice - *Luxembourg*
+- Cours européenne des droits de l'Homme
+- Convention européenne des droits de l'Homme
+
+__Attention : __ conseil de l'UE $\neq$ conseil de l'Europe (Europe des 47) (Droits de l'Homme)
+
+### Ordre privé
+
+- Cour de Cassasion (règle de droit) composé de 6 chambres - *Paris*
+	- 1 Criminelle - Droit pénal
+	- 3 Civils
+	- 1 Sociale - Droit du truvail
+	- 1 Commerciale - Droit sociétés
+- Cours d'appel - *Colmar*
+- Tribunal d'instance : pour des litiges inférieurs à 10.000€
+- Tribunal de grande instance : pour des litiges supérieurs à 10.000€
+
+- Droit du travail
+	- en cour de cassassion 
+	- en cour d'appel 
+	- en cour des Prudhommes 
+
+### Ordre publique
+
+### Pénal
+
+- Contraventions : Tibunal de police - Formation collégiale + jury
+- Délits : tribunal correctionnel - Formation coollégiale
+- Crimes : cour d'assises
 
 
 
