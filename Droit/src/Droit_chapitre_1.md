@@ -174,3 +174,127 @@ __Attention : __ conseil de l'UE $\neq$ conseil de l'Europe (Europe des 47) (Dro
 
 
 
+
+
+#  __*NB: Reprendre les cours de droit de la semaine d'avant les vacances*__
+
+
+
+
+
+## ? - Les droits moraux
+
+le droit moral a un caractère inaliénable (il ne peut être cèdé)
+	
+1. droit à la divulgation
+
+il permet à l'auteur de décider du moment et des conditions selon lesquels il communiquera son oeuvre.
+
+2. droit à la paternité
+
+Il permet à l'auteur d'exiger et de revendiquer à tout moment la mention de son nom et de ses qualités, sur tout mode de publication de son oeuvre.
+
+En outre, tout utilisateur de l'oeuvre à l'obligation d'indiquer le nom de l'auteur.
+
+3. droit au respect 
+
+> Il permet cette fois à l'auteur de s'opposer à toutes modifications succeptible de dénaturer son oeuvre.
+
+> Ce devoir de respect s'impose tant au *sessionnaire des droits d'exploitation* qu'au *propriétaire du support matériel de l'oeuvre sur lequel il est réalisé*.
+
+4. Le droit de repentir, ou le droit de retrait
+
+> Il permet à l'auteur malgré la cession de ses droit d'exploitation de faire cesser l'exploitation de son oeuvre ou des droits qu'il a cèdés, en cas de cession partielle.
+> 	La seule condition est d'indemniser le cessionnaire de à hauteur de son préjudice.
+
+
+
+Le droit moral conféré à l'auteur d'un logiciel est l'objet de limites spécifiques. Sauf stipulation contraire plus favorable à l'auteur d'un logiciel. Celui ci, ne peut exercer son droit de retrait et s'opposer modification du logiciel par le cessionnaire l'intermédiaire des droit patrimoniale, lorsqu'elle n'est préjudiciable ni à son honneur, ni à sa réputation.
+
+
+
+Droit moraux des agents publiques font l'objet de limitations spécifiques issue de la loi du premier Aout 2006.
+
+* L'agent publique ne peut absolument pas se prévaloire de sa qualité pour échapper à ses obligations statutaire. En conséquence, il doit excercer son droit de divul sous réserve du resp des règles auquels il est soumis en ses qualités d'agents, et qui régissent l'organisation, le fonctionnament et l'activité de la personne publique qui l'emploi.
+
+* L'agent publique ne peut pas se prévaloir du droit au respect de l'intéret de son oeuvre pour s'opposer à la modif de son oeuvre décidée dans l'intéret du service par l'autorité investi du pouvoir hiérarchique.  
+Cette modif peut néanmoins peut etre contestée par l'auteur ou elle porterait atteinte à son honneur ou à sa réputation.
+
+* l'agent publique ne peut exercer son droit de retrait, en effet, un exercice incontrôlé de ses deux préroragatives rendrait aléatoire l'exploitation de l'oeuvre créée dans le cadre du service.
+
+
+* lorsqu'il n'y a pas de hirarchie, ces limitations ne se limitent pas aux agents auteurs d'oeuvre dont la divulgation n'est soumise à aucun contrôle préalable.
+
+
+
+## ? - Les droits patriminiaux
+
+l'article *L.123-1* permet à l'auteur de bénéficier du droit exclusif d'exploiter son oeuvre sous quelque forme que ce soit, et d'en tirer un profit pécunier.
+
+Les prérogatives patrimoniales confé aux auteurs sont le droit de représentation et de reproduction, et le droit de suite.
+
+__droit de reprduction et de représentation :__
+
+a. __Droit de reproduction__
+
+> Le droit de reproduction consiste dans le fixation de l'oeuvre publique par tous les procédés qui permettent de la communiquer.
+
+> les prérogatives qui conféfère à l'auteur d'autoriser ou d'interdire toutes form expl de son oeuvre lui permettent d'agir contre ceux qui exploitent son oeuvre sans autorisation, dans l'action de la contrefaçon.
+
+b. __Droit de représentation__
+
+> Celui ci consiste dans la communication de l'oeuvre au publique par un procédé quelconque (*article l.122-2*).
+
+
+
+
+Ces droits de reproductions et de représentations, s'appliquent à tous supports et techniques de reproductions et de représentations. Ces droits s'appliquent également aux utilisations secondaire de l'oeuvre, telle une oeuvre dérivée (traduction, adaptation, etc ...), il s'applique également au mode de reproduction et de transmission numérique (numérisation, stockage, communication au publique en ligne, etc ...)
+
+Le code de la propriété intellectuelle ne prends pas en considération l'étendue de l'exploitation, ce qui signifie que partielle ou totale obéis aux mêmes règles, et ne s'intéresse pas à la finalité de l'exploitation, peu importe qu'elle soit commerciale ou non.
+
+__Le droit de suite__
+
+> Le code de la propriété intellectuelle définie le droit de suite comme un droit inalienable de participation au produit de toutes vente d'une oeuvres après la première session opérée par l'auteurs ou ses ayant-droits.
+
+> Il repose sur une logique différente de celles des droit de représentation et de reproduction, puisqu'il ne consiste pas en un droit exclusif d'autoriser ou d'interdire, mais dans le droit inalénable de percevoir un pourcentage sur le produit de toutes ventes d'une O après sa première cession opérée par l'auteur ou ses ayants-droit.
+
+> Il s'applique quelque soit l'acteur qui intervient dans l'action.
+
+
+
+__*Limitations :*__
+
+1. La représentation dans le cercle famillial; il s'agit de la représentation privé qui doit être gratuite et doit être effect excl dans un cadre de famille qui s'entend d'un publique restreind au parents ou au publique famillier. Ce qui signifie que des membres d'assic, de collect, de société
+
+2. la reproduction strictement réservée à l'usage privée et non destinée à une utilisation collective.  
+Dans le cas du logiciel, la repproduction sous forme de sauvegarde, de copie est permise tout comme la copie des bases de données électronique.
+
+
+3. la nécessité de citer clairement le nom de l'auteur et la source permet de reproduire l'oeuvre dans différents cadres:
+
+	* revue de presse
+	* diffusion informative dans une présentation publique
+	* enseignement et de recherche (*élève, étudiant*), sous réserve de ne pas avoir d'exploitation commerciale, dans ce cas, une rémunération sera prévue pour l'auteur.
+	* parodie, caricature
+	* acte d'accès nécéssaire dans le cadre d'une base de donnée, pour les besoins et dans les limites prévues par contract. 
+	* copie provisoire technique :
+		- la copie par l'intermédiaire d'un site miroir. Copie par l'auteur du site original placé à différents endroits pour en optimiser l'accès.
+		- Stocker sur un support rapide certains fichiers (*caching*), les FAI procèdent habituellement ainsi pour faciliter le parcours de l'information.
+
+Ces exceptions ne doivent pas aller à l'encontre de l'exploj norm de l'O ni porter préjudice à l'encontre des intérets l'auteur.
+
+
+## ? - Les mesures technique de protection:
+
+__*Définition: *__
+
+> il s'agit de toutes technologie, dispositifs ou composants, qui, dans le cadre norm de son fonctionnement est destiné à empêcher ou à limiter en ce qui concerne les oeuvres ou les autres objets protégés le,s actes non autorisés par le titulaire d'un droit d'auteur ou d'un droit voisin de celui-ci prévu par la loi.
+
+
+
+
+
+
+
+
+
