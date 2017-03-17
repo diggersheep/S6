@@ -288,8 +288,113 @@ Ces exceptions ne doivent pas aller à l'encontre de l'exploj norm de l'O ni por
 
 __*Définition: *__
 
+
+
 > il s'agit de toutes technologie, dispositifs ou composants, qui, dans le cadre norm de son fonctionnement est destiné à empêcher ou à limiter en ce qui concerne les oeuvres ou les autres objets protégés le,s actes non autorisés par le titulaire d'un droit d'auteur ou d'un droit voisin de celui-ci prévu par la loi.
 
+*La loi du premier Aout 2006* permet aux auteurs d'*apposer*, d'*appliquer* les mesures techniques de protections dans le but d'empêcher ou de limiter les utilisations non autosiés d'une oeuvre.
+
+Premier point concernant les mesure tech:
+
+Elles sont protégées pénalement, tant en ce qui concerne les actes préparatoires, ou les actes de contournement ou de neutralisation de ses mesures techniques de protection, sauf si, ces actes préparatoires ou de contournement sont réalisés à des fins de recherches.
+
+\newpage
+
+La mesure technique doit être __efficace__ *(qu'est-ce qu'efficace)*:
+
+* pour le législateur l'efficacité est présumée
+* elle s'apprécie par rapport au cadre normal de fonctionnement de la mesure technique.
+
+Il faudra donc une expertise
+
+En outre, la mesure technique doit s'appliquer à un objet protégé par le droit d'auteur.
+
+La violation des mesures techniques de protection ne sont pas assimilable à des actes de contrefaçon.
+
+Il existe certains cas où les sanctions sont inapplicables:
+
+* si la mesure technique contournée à un autre objectif que de prévenir une violation des droits.
+* le courtournement à été fait dans un cadre de recherche en cryptoragphie
+
+
+
+# III - Le droit des brevets d'inventions
+
+## Introduction
+
+A la fin du XIXe siècle à été signé la convention de Paris (CUP). Il s'agit d'un grand traité inter relatif au domaine vaste rela à la prop intel et contentant des dispositions rel au droit des brevets.
+C'est un texte universel signé par la quasi totalité des états.
+
+Elle pose une règle dite de *l'unionisme*, ce qui signifie qu'elle applique le principe du traitement nationnal. Il s'agit d'accorder à d'autre le même traitement aplliqués aux nationnaux. C'est le pricipe de __non-discrimination__.
+
+L'accord *ADPIC* ( Aspect De Propiété Intellectuel qui touche au Commerce) en 1994 par l'OMC, est un traité incontournable du XXe s relatif à la prop intel, et donc aussi relative au brevets.
+
+
+#### La __convention de Munich__ *(1973)*  
+Il s'agit d'une convention Européenne, aussi connue par le sigle CBE.
+La conv de Mu à crée un organisme important pour les brevets, l'OEB, organisme européens des brevets.
+
+l'OEB va organisé a procédure de dépot unique et organise également la délivrance des brevets pour les états désignés dans la demande.
+
+L'OEB n'est pas un tribunal, mais rends des décisions administratives,lesquelles peuvent faire
+Il est une source de droit.
+
+Le tribunal unifié de 2013, vise à instaurer une institution excusive pour les brevets.
+
+La grande directive de 2004 porte sur le respect des droits de propr intellectuelle aux moyens de recours et de sanctions efficaces. La France l'a transposée en la loi du 29 oct 2007, contre la contra.
+
+
+
+Deux reglement sur le brevet européen:
+
+* créer un brevet __unitaire__ dans l'__UE__
+* relatif au régime de traduction
+
+## Qu'est ce que le droit des brevets
+
+Il s'agit d'un droit de propriété temporaire dépendant d'un dépôt et portant sur des inventions qui sont des créations techniques. On estime qu'en l'absence de brevet, il n'y a pas d'innovation, du moins, dans certaines secteurs. C'est la raison pour laquelle on conclue aujourd'hui que le droit des brevets et un n'atout de l'économie.  
+Ce droit est historiquement lié au contecte économique, lui-même marqué par les évolutions technique.
+
+## Critères
+
+Ce droit 5 critère:
+
+1. une invention
+2. celle-ci doit etre nouvelle
+3. application inventive
+4. industrielle
+5. licite
+
+
+### 1.
+<!-- 1 -->
+Le brevet porte toujours sur une invention, le législateur sous-entend qu'il s'aagit d'une création technique. La jurice-prudence énonce que l'invention est une solution technique apportée à un problème technique. L'invention ne peut être qu'un phénomène concret. Ce qui signifie donc pas qu'il s'agit d'une solution abstraite apporté à un prblème abtrait, donc, pas une idée.
+
+Un certain nombre
+
+* les dévouvrertes *(ex: scientifique)* ne sont pas bravetable
+* les théories/théorèmes/axiomes mathématique trop abstraites ne le sont pas
+* A priori les programmes d'ordinateur ne sont pas brevetable en tant que tel. Cela signifie qu'ils sont signifie à brevetable à contrario q'ils ne sont pas en tant que tel. Un ensemble technique comportant un logiciel peut être breveté, car le programme est une partie d'un tout.
+* Les présentations d'informations ne sont pas brevetable en tant que tel, mais peut être protégé par le droit d'auteur.
+
+
+### 2. l'invention doit être nouvelle
+
+l'invention doit être nouvelle avec la notion clé de l'état de la technique.
+la tech est-elle nouvelle
+appréciation de la nouveauté au regard de l'état de la technique. En effet, selon les texte, une inv est considérée comme nouvelle si elle n'est pas comprise dans l'état de la technique.  
+L'état de la technique est donc constituée par tout ce qui a été rendu accessible au publique. Il contient donc ce qu'on appelles les *antériorités* qui sont toutes les informations accessible au publque avant la date de dépot de la demande ou la date de priorité en cas de demande dans plusieurs pays.  
+
+Elle s'apprécie largement, cela signifie que celle-ci s'excerce sans limitation dans le temps et dans l'espace. Elle englobe toute l'info acces au publique, peu import qu'elle ait été réellement connue.
+Elle comprends toutes info qqsoit sont mode de divulgation.
+Elle comprends toutes info qqsoit l'auteur de la divulgation, ainsi l'info peut avoir éét divulg par l'auteur de la demande ou par un tiers. 
+
+
+
+
+<!-- 3 -->
+<!-- 4 -->
+<!-- 5 -->
 
 
 
