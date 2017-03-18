@@ -1,3 +1,8 @@
+\newcommand{\e}{$^e\ $}
+\newcommand{\er}{$^{er}\ $}
+\newcommand{\ere}{$^{ère}\ $}
+\newcommand{\ieme}{$^{eme}\ $}
+
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
  
@@ -37,7 +42,6 @@
 \newpage
 
 <!-- ======================================= -->
-
 # I - la Règle de Droit
 
 ## A - Les caractéristiques de la règle de droit
@@ -355,32 +359,31 @@ Il existe certains cas où les sanctions sont inapplicables:
 * le courtournement à été fait dans un cadre de recherche en cryptoragphie
 
 
-
-# IV - Le droit du brevet d'invention
+\newpage
+# IV - Le Droit du Brevet d'Invention
 
 ## Introduction
 
-A la fin du XIX siècle à été signé la convention de Paris (CUP). Il s'agit d'un grand traité inter relatif au domaine vaste rela à la prop intel et contentant des dispositions rel au droit des brevets.
-C'est un texte universel signé par la quasi totalité des états.
+A la fin du XIX\e  siècle à été signé la __convention de Paris__ *(CUP)* signé par 174\footnote{174 sur 193 pays reconnues par l'ONU} pays. Il s'agit d'un grand traité internatinnal relatif au domaine vaste relatif à la *propriété intellectuelle* et contentant des dispositions relatifs au droit des brevets.
+C'est un texte __universel__ signé par la quasi totalité des états.
 
 Elle pose une règle dite de *l'unionisme*, ce qui signifie qu'elle applique le principe du traitement nationnal. Il s'agit d'accorder à d'autre le même traitement aplliqués aux nationnaux. C'est le pricipe de __non-discrimination__.
 
-L'accord *ADPIC* ( Aspect De Propiété Intellectuel qui touche au Commerce) en 1994 par l'OMC, est un traité incontournable du XXe s relatif à la prop intel, et donc aussi relative au brevets.
+L'accord __*ADPIC*__ ( **A**spect **D**e **P**ropiété **I**ntellectuel qui touche au **C**ommerce) en 1994 par l'OMC\footnote{OMC, pour Organisation mondiale du Commerce}, est un traité incontournable du XX\e siècle relatif à la propriété intellectuelle, et donc aussi relative aux brevets.
 
 
-#### La __convention de Munich__ *(1973)*  
-Il s'agit d'une convention Européenne, aussi connue par le sigle CBE.
-La conv de Mu à crée un organisme important pour les brevets, l'OEB, organisme européens des brevets.
+#### La __Convention de Munich__ *(1973)*
 
-l'OEB va organisé a procédure de dépot unique et organise également la délivrance des brevets pour les états désignés dans la demande.
+Il s'agit d'une convention Européenne, aussi connue par le sigle *CBE*.
+La convention de Munich a créé un organisme important pour les brevets, l'__OEB__, ou l'_**O**rganisme **E**uropéens des **B**revets_.
 
-L'OEB n'est pas un tribunal, mais rends des décisions administratives,lesquelles peuvent faire
-Il est une source de droit.
+l'*OEB* va organiser la procédure de dépot unique et organise également la délivrance des brevets pour les états désignés dans la demande.
 
-Le tribunal unifié de 2013, vise à instaurer une institution excusive pour les brevets.
+L'*OEB* n'est pas un tribunal, mais rends des décisions administratives, lesquelles peuvent faire l'objet de mesures juridiques. Elle est donc une source de droit.
 
-La grande directive de 2004 porte sur le respect des droits de propr intellectuelle aux moyens de recours et de sanctions efficaces. La France l'a transposée en la loi du 29 oct 2007, contre la contra.
+Le *tribunal unifié* de 2013, vise à instaurer une institution excusive pour les brevets.
 
+La grande directive de 2004 porte sur le respect des droits de propriété intellectuelle aux moyens de recours et de sanctions efficaces. La France l'a transposée en la loi du 29 oct 2007, contre la contrefaçon.
 
 
 Deux reglement sur le brevet européen:
@@ -388,23 +391,23 @@ Deux reglement sur le brevet européen:
 * créer un brevet __unitaire__ dans l'__UE__
 * relatif au régime de traduction
 
-## Qu'est ce que le droit des brevets
+\newpage
+### Qu'est ce que le droit des brevets
 
 Il s'agit d'un droit de propriété temporaire dépendant d'un dépôt et portant sur des inventions qui sont des créations techniques. On estime qu'en l'absence de brevet, il n'y a pas d'innovation, du moins, dans certaines secteurs. C'est la raison pour laquelle on conclue aujourd'hui que le droit des brevets et un n'atout de l'économie.  
 Ce droit est historiquement lié au contecte économique, lui-même marqué par les évolutions technique.
 
-## Critères
+## A - Critères de Brevetabilité
 
-Ce droit 5 critère:
+Le droit de brevet requiert cinq critère, détaillés par la suite qui sont:
 
-1. une invention
-2. celle-ci doit etre nouvelle
-3. application inventive
-4. industrielle
-5. licite
+* l'**invention**
+* la **nouveauté**
+* l'**application inventive**
+* l'**industrialisation**
+* la **licéité**\footnote{licéité = à caracctère licite }.
 
-
-### 1.Invention
+### 1. Invention
 
 Le brevet porte toujours sur une invention, le législateur sous-entend qu'il s'agit d'une __création technique__. La jurice-prudence énonce que *l'invention est une solution technique apportée à un problème technique*. L'invention ne peut être qu'un phénomène concret. Ce qui signifie donc pas qu'il s'agit d'une solution abstraite apporté à un problème abtrait, donc __n'est pas une idée__.
 
@@ -416,7 +419,7 @@ Un certain nombre d'exceptions:
 * Les présentations d'informations ne sont pas brevetable en tant que tel, mais peut être protégé par le droit d'auteur.
 
 
-### 2. Nouvelle
+### 2. Nouveauté
 
 l'invention doit être nouvelle avec la notion clé de __l'état de la technique__.
 
@@ -462,7 +465,7 @@ L'objet de l'invention doit pouvoir être fabriqué ou utilisé dans tout genre 
 
 L'invention ne doit pas contrevenir aux lois et aux règlements existant.
 
-Cette condition de licéité\footnote{licéité = à caracctère licite } connais exactement __5 exceptions__:
+Cette condition de licéité connais exactement __5 exceptions__:
 
 - il n'est pas possible de breveté des inventions contraire à la dignité de la personne humaine, à l'ordre publique, et aux bonnes moeurs.
 - La non-brevetabilité du corps humain
@@ -472,7 +475,7 @@ Cette condition de licéité\footnote{licéité = à caracctère licite } connai
 
 
 
-## Le titulaire du droit de brevet
+## B - Le titulaire du droit de brevet
 
 Le droit au brevet est le droit de déposer la demande brevet. En France, ce droit appartient non seulement à l'inventeur, mais aussi aux *ayant-cause*\footnote{ayant-cause = collaborateur, héritié}.
 
