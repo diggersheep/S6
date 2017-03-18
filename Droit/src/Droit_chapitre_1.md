@@ -1,4 +1,42 @@
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+ 
+\title{\LARGE{Introduction au Droit}}
+\author{Alex \textsc{COMBEAU}}
+\date{\today}
+\makeatletter
+
+\begin{titlepage}
+    \enlargethispage{2cm}
+ 
+    \begin{center}
+        \vspace*{5cm}
+ 
+        \textsc{\@title}
+        \HRule
+        \vspace*{0.5cm}
+ 
+        \large{\@author}
+
+		\vspace*{1cm}
+        \large{issue du cours de :\\
+        	\textsc{Maître} Thierry \textsc{EDMOND}
+        }
+
+        \vspace*{1cm}
+        \large{\@date} 
+    \end{center}
+ 
+    \vspace*{9.2cm}
+ 
+\end{titlepage}
 \newpage
+<!-- ======================================= -->
+
+\tableofcontents
+\newpage
+
+<!-- ======================================= -->
 
 # I - la Règle de Droit
 
@@ -318,11 +356,11 @@ Il existe certains cas où les sanctions sont inapplicables:
 
 
 
-# III - Le droit des brevets d'inventions
+# IV - Le droit du brevet d'invention
 
 ## Introduction
 
-A la fin du XIXe siècle à été signé la convention de Paris (CUP). Il s'agit d'un grand traité inter relatif au domaine vaste rela à la prop intel et contentant des dispositions rel au droit des brevets.
+A la fin du XIX siècle à été signé la convention de Paris (CUP). Il s'agit d'un grand traité inter relatif au domaine vaste rela à la prop intel et contentant des dispositions rel au droit des brevets.
 C'est un texte universel signé par la quasi totalité des états.
 
 Elle pose une règle dite de *l'unionisme*, ce qui signifie qu'elle applique le principe du traitement nationnal. Il s'agit d'accorder à d'autre le même traitement aplliqués aux nationnaux. C'est le pricipe de __non-discrimination__.
@@ -366,40 +404,112 @@ Ce droit 5 critère:
 5. licite
 
 
-### 1.
-<!-- 1 -->
-Le brevet porte toujours sur une invention, le législateur sous-entend qu'il s'aagit d'une création technique. La jurice-prudence énonce que l'invention est une solution technique apportée à un problème technique. L'invention ne peut être qu'un phénomène concret. Ce qui signifie donc pas qu'il s'agit d'une solution abstraite apporté à un prblème abtrait, donc, pas une idée.
+### 1.Invention
 
-Un certain nombre
+Le brevet porte toujours sur une invention, le législateur sous-entend qu'il s'agit d'une __création technique__. La jurice-prudence énonce que *l'invention est une solution technique apportée à un problème technique*. L'invention ne peut être qu'un phénomène concret. Ce qui signifie donc pas qu'il s'agit d'une solution abstraite apporté à un problème abtrait, donc __n'est pas une idée__.
 
-* les dévouvrertes *(ex: scientifique)* ne sont pas bravetable
-* les théories/théorèmes/axiomes mathématique trop abstraites ne le sont pas
-* A priori les programmes d'ordinateur ne sont pas brevetable en tant que tel. Cela signifie qu'ils sont signifie à brevetable à contrario q'ils ne sont pas en tant que tel. Un ensemble technique comportant un logiciel peut être breveté, car le programme est une partie d'un tout.
+Un certain nombre d'exceptions:
+
+* les dévouvrertes (*ex:* scientifique) ne sont pas bravetable
+* les théories/théorèmes/axiomes mathématique trop abstraites ne sont pas brevetables
+* A priori, les __programmes__ d'ordinateur ne sont __pas brevetables__ en tant que tel. Cela signifie qu'ils sont brevetable à contrario, lorqu qu'ils ne sont pas *en tant que tel*. Un ensemble technique comportant un logiciel peut être breveté, car __le programme est une partie d'un tout__.
 * Les présentations d'informations ne sont pas brevetable en tant que tel, mais peut être protégé par le droit d'auteur.
 
 
-### 2. l'invention doit être nouvelle
+### 2. Nouvelle
 
-l'invention doit être nouvelle avec la notion clé de l'état de la technique.
-la tech est-elle nouvelle
-appréciation de la nouveauté au regard de l'état de la technique. En effet, selon les texte, une inv est considérée comme nouvelle si elle n'est pas comprise dans l'état de la technique.  
-L'état de la technique est donc constituée par tout ce qui a été rendu accessible au publique. Il contient donc ce qu'on appelles les *antériorités* qui sont toutes les informations accessible au publque avant la date de dépot de la demande ou la date de priorité en cas de demande dans plusieurs pays.  
+l'invention doit être nouvelle avec la notion clé de __l'état de la technique__.
 
-Elle s'apprécie largement, cela signifie que celle-ci s'excerce sans limitation dans le temps et dans l'espace. Elle englobe toute l'info acces au publique, peu import qu'elle ait été réellement connue.
-Elle comprends toutes info qqsoit sont mode de divulgation.
-Elle comprends toutes info qqsoit l'auteur de la divulgation, ainsi l'info peut avoir éét divulg par l'auteur de la demande ou par un tiers. 
+> la technique est-elle nouvelle ?
 
+Appréciation de la nouveauté au regard de l'état de la technique. En effet, selon les textes, une invention est considérée comme nouvelle si elle __n'est pas comprise__ dans l'état de la technique.   
+L'état de la technique est donc constituée par __tout ce qui a été rendu accessible au publique__. Il contient donc ce qu'on appelles les __*antériorités*__, qui sont toutes les informations accessibles au publque avant la date de dépot de la demande, ou la date de priorité en cas de demande dans plusieurs pays.  
 
-
-
-<!-- 3 -->
-<!-- 4 -->
-<!-- 5 -->
+Elle s'apprécie *largement*, cela signifie que celle-ci s'excerce sans limitations dans le temps et dans l'espace. Elle englobe toutes l'informations accessibles au publique, peu import qu'elles aient été réellement connue.
+Elle comprends __toutes__ les informations quelque soit sont mode de divulgation.
+Elle comprends __toutes___ informations quelque soit l'auteur de la divulgation, ainsi l'information peut avoir été divulgué par l'auteur de la demande ou par un tiers. 
 
 
 
+### 3. Application inventive
+
+L'ensemble des antériorités doit être pris en compte. Une invention peut être nouvelle, mais ne pas appliquer d'activité inventive au regard de l'ensemble de l'état de la technique.
+
+L'__homme du métier__ est une notion *__standard__*, c'est un personnage de référence qui se situe __dans la moyenne__ des connaissances du secteur en cause, et qui appartiennent au même  secteur d'activité. Cette notion est à la fois retenue par la __France__, mais aussi par l'__UE__, dans le but que le référenciel ne soit pas seulement nationnal, mais européen.
+
+Pour l'OEB, l'homme du métier est un *"praticien"*_\footnote{praticien = professionnel} du domaine concerné, qui dispose de connaissances et d'aptitudes moyennes et qui possède les connaissances dans le domaine concerné à une date donnée.
+
+En droit français, l'homme du métier est celui qui possède les connaissances normales de la technique et doit être capable, à l'aide de ces seules connaissances professionnelles, de concevoir la solution du problème que propose de résoudre l'invention.
+
+
+Selon l'OEB il faut analyser  de H du M en 3 étapes:
+
+* L'état de la technique __le plus proche__
+* Partant de cette état, l'homme du métier doit identifier le problème technique __*"objectif"*__ à résoudre
+* L'homme du métier doit examiner si la solution s'imposait à l'évidence au vue de cette état de la technique
+
+Si l'activité inventive n'est pas évidente pour l'homme du métiers, alors on pourra envisager que cette activité est inventive
 
 
 
+### 4. Application industrielle
 
+L'objet de l'invention doit pouvoir être fabriqué ou utilisé dans tout genre d'agriculture, même l'agriculture.
+
+
+
+### 5. Licite
+
+L'invention ne doit pas contrevenir aux lois et aux règlements existant.
+
+Cette condition de licéité\footnote{licéité = à caracctère licite } connais exactement __5 exceptions__:
+
+- il n'est pas possible de breveté des inventions contraire à la dignité de la personne humaine, à l'ordre publique, et aux bonnes moeurs.
+- La non-brevetabilité du corps humain
+- La non-brevetabilité des variété végétales et animales.
+- La non-brevetabilité des procédés essentiellement biologiques, pour l'obtention de végétaux ou d'animaux, et de certains procédés de modification de l'identité génétique des animaux.
+- La non-brevetabilité des méthodes de traitement et de diagnostique.
+
+
+
+## Le titulaire du droit de brevet
+
+Le droit au brevet est le droit de déposer la demande brevet. En France, ce droit appartient non seulement à l'inventeur, mais aussi aux *ayant-cause*\footnote{ayant-cause = collaborateur, héritié}.
+
+Le droit de brevet, qui est un droit de proprité, appartient au déposant.
+
+
+### 1. L'inventeur et le droit au brevet
+
+Selon le code de la *propriété intellectuel*, l'étendu du droit de brevet est le même qu'il s'agisse de *l'inventeur*, de *l'héritier*, ou du *cessionnaire*.
+
+Un droit distinct est reconnu à l'inventeur, celle qui vise à faire en sorte qu'il à le droit d'être nommé comme tel dans le brevet.
+
+
+### 2. Le déposant et le droit de brevet
+
+Le disposant dispose du droit de propriété sur le brevet. \footnote{ 85\% des dépôts sont la propriété de personne morale }
+
+__Plusieurs déposants__ peuvent faire une demande en commun, dans ce cas, ce brevet appartient __indistinctement__ à tous.
+
+Si plusieurs demandes __concomittantes__ portent sur la même invention, la demande la __plus ancienne__ est détenteur de ce droit.
+
+Si le déposant à fait sa demande sans avoir droit au brevet, le véritable titulaire du droit peut exercer une action, dite, en *revendication*, et ainsi contester la validité du dépôt.
+
+
+Le cas du salarié, du fonctionnaire ou de l'agent publique:
+
+1. __inventions de mission__: Ce sont celles qui sont liées à ce pourquoi l'employé est rémunéré. Ces inventions appartiennent à l'entreprise, hors compromis. En contrepartie, il y a une rémunération supplémentaire.
+
+2. __les inventions hors mission__: ce sont celles qui sont périphériques à celle du travail, mais qui sont reliées à l'entreprise d'une façon ou d'une autre. Ces inventions ne rentre pas *strito sensu* dans le cadre de la mission dans l'entreprise, mais ont pu être réalisés soit dans le cours de l'execution d'une fonction, ou dans le domaine des activités de l'entreprise, ou alors grâce à l'utilisation des moyens de l'entreprise. Elles sont __propriétés de l'employés__, mais *l'employeur* __peut_ s'en faire attribuer la propriété ou la jouissance. L'employer peut donc revendiquer ces inventions dans un délais d'au plus quatres mois après la date de dépôt du brevet. En contrepartis de cette __dépossession__, il est nécessaire de convenir à __un juste prix__.
+Si les partis n'arrivent pas à se fixer sur un juste prix, des recours à la justice, par l'intermédiaire du *tribunal de grande instance* ou la *commission nationnale des inventions de salariés*, peut être pris.
+
+3.
+
+<!--
+
+### 3.
+### 4.
+
+-->
 
