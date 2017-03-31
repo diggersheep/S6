@@ -3,6 +3,7 @@
 \newcommand{\ere}{$^{ère}\ $}
 \newcommand{\ieme}{$^{eme}\ $}
 
+
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
  
@@ -24,7 +25,7 @@
         \large{\@author}
 
 		\vspace*{1cm}
-        \large{issue du cours de :\\
+        \large{issue de la prise de note du cours de :\\
         	\textsc{Maître} Thierry \textsc{EDMOND}
         }
 
